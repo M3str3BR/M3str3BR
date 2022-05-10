@@ -8,7 +8,9 @@
 
 ## Meus dados:
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3str3BR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+  
 ![Marlon Rodolpho GitHub stats](https://github-readme-stats.vercel.app/api?username=M3str3BR&show_icons=true&theme=tokyonight)
 
 ![Marlon Rodolpho Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3str3BR&layout=compact&theme=tokyonight)
