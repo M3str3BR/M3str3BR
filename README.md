@@ -7,10 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/om4rl0n)
 
 ## Meus dados:
-  
- <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3str3BR&layout=compact&langs_count=7&theme=tokyonight"/>
-
-  
+    
 ![Marlon Rodolpho GitHub stats](https://github-readme-stats.vercel.app/api?username=M3str3BR&show_icons=true&theme=tokyonight)
 
 ![Marlon Rodolpho Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3str3BR&layout=compact&theme=tokyonight)
