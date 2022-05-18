@@ -6,16 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-r-052b80180)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/om4rl0n)
 
-## Meus dados:
-    
-<div>
-<a href="https://github.com/M3str3BR">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3str3BR&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-M3str3BR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-    
 
-## Minhas linguagens:
 
 ## Tenho interesse em aprender:
 
